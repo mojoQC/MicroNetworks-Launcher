@@ -22,6 +22,7 @@
         "ignore": "**/test"
     },
     "dependencies": {
+        "azuriom-auth": "^1.0.1",
         "electron-updater": "^6.6.2",
         "minecraft-java-core": "^4.2.3",
         "node-bdd": "^2.0.4",
