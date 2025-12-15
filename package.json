@@ -1,13 +1,13 @@
 {
-    "name": "MicroNetworks-Launcher",
+    "name": "micro-networks-launcher",
     "preductname": "Selvania Launcher",
     "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur MicroNetworks",
     "main": "src/app.js",
     "author": {
-        "name": "",
-        "email": "",
-        "url": ""
+        "name": "max",
+        "email": "adc@microfight.fr",
+        "url": "http://microfight.fr"
     },
     "url": "http://microfight.fr",
     "scripts": {
