@@ -9,7 +9,7 @@
         "email": "",
         "url": ""
     },
-    "url": "http://microfight.fr.fr",
+    "url": "http://microfight.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
