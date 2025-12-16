@@ -1,7 +1,7 @@
 {
     "name": "micro-networks-launcher",
     "preductname": "MicroFight Launcher",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Launcher Mincraft pour le serveur MicroNetworks",
     "main": "src/app.js",
     "author": {
