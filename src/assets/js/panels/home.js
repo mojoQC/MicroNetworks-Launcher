@@ -215,15 +215,15 @@ class Home {
             timeout: 10000,
             path: `${await appdata()}/${process.platform == 'darwin' ? this.config.dataDirectory : `.${this.config.dataDirectory}`}`,
             instance: options.name,
-            version: options.loadder.minecraft_version,
+            version: options.loader.minecraft_version,
             detached: configClient.launcher_config.closeLauncher == "close-all" ? false : true,
             downloadFileMultiple: configClient.launcher_config.download_multi,
             intelEnabledMac: configClient.launcher_config.intelEnabledMac,
 
             loader: {
-                type: options.loadder.loadder_type,
-                build: options.loadder.loadder_version,
-                enable: options.loadder.loadder_type == 'none' ? false : true
+                type: options.loader.loader_type,
+                build: options.loader.loader_version,
+                enable: options.loader.loader_type == 'none' ? false : true
             },
 
             verify: options.verify,
