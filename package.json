@@ -9,7 +9,7 @@
         "email": "adc@microfight.fr",
         "url": "http://microfight.fr"
     },
-    "url": "http://microfight.fr",
+    "url": "https://microfight.fr/launcher/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
