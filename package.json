@@ -1,6 +1,6 @@
 {
     "name": "micro-networks-launcher",
-    "preductname": "Selvania Launcher",
+    "preductname": "MicroFight Launcher",
     "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur MicroNetworks",
     "main": "src/app.js",
